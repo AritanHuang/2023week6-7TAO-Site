@@ -13,6 +13,9 @@
 .buy-btn:hover {
     cursor: pointer;
 }
+.eventTag-btn-hover:hover {
+    text-decoration: underline;
+}
 
 .tag-button {
     border-left: 4px solid $primary;
